@@ -413,14 +413,7 @@ MOVIELENS-MYSQL-PROJECT/
 ├── Dataset/
 │   ├── movies.csv
 │   └── ratings.csv
-│
-└── Screenshots/
-    ├── Q1.png
-    ├── Q2.png
-    ├── Q3.png
-    ├── ...
-    └── Q15.png
-```
+
 
 > The folder structure above represents the recommended organization of the GitHub repository. Create only the folders/files that you actually upload.
 
